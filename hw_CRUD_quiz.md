@@ -11,7 +11,7 @@ In `console.rb` with `Property.new`
 
 
 Q2. Where are we defining the SQL that enables us to save the ruby `Property` object into the database?  
-With the `properties` table in `properties.sql`  
+In the property's save method. 
 
 
 Q3. In `console.rb`, which lines modify the database?  
